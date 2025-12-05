@@ -25,9 +25,7 @@
 ---
 
 <!-- WAVE GIF -->
-<p align="center">
-  <img src="gifs/tech.gif" width="420" />
-</p>
+
 
 ## 🚀 About Me  
 - 💻 MERN stack developer turning ideas into production-ready products  
@@ -77,6 +75,11 @@
 </p>
 
 ---
+
+<!-- Project gif -->
+<p align="center">
+  <img src="gifs/tech.gif" width="420" />
+</p>
 
 ## 🌱 Currently Building  
 
