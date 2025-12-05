@@ -133,6 +133,7 @@ A lightweight, fast job-matching tool for students & local providers.
   - 🔢 **Hungarian Algorithm** → optimal student-job matching  
 - ⭐ Adding profiles, ratings, and analytics  
 
+---
 <p align="center">
   🌸 Steady upgrades. Quiet focus. Better every day. 🌸
 </p>
