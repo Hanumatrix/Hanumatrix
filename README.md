@@ -78,7 +78,7 @@ A workspace built for students & creators:
 
 <!-- TECH TRANSITION GIF -->
 <p align="center">
-  <img src="TECH_TRANSITION_GIF_LINK" width="420" />
+  <img src="gifs/wave.gif" width="420" />
 </p>
 
 ## 🧰 Tech I Use  
