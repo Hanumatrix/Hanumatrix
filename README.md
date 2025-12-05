@@ -105,15 +105,21 @@ A workspace built for students & creators:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hanumatrix&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Main stats card -->
+  <img src="https://gh-stats-card.vercel.app/api/hanumatrix" width="60%" />
+</p>
+
+<p align="center">
+  <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com?user=hanumatrix&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hanumatrix&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <!-- Activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanumatrix&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
