@@ -139,11 +139,13 @@ A workspace built for students & creators:
 ---
 
 <!-- MUSIC GIF -->
+## 🎧 Hobbies 
+
 <p align="center">
   <img src="gifs/music.gif" width="420" />
 </p>
 
-## 🎧 Hobbies  
+ 
 - 🎵 Vibing to music & Lo-fi  
 - 🎨 Anime art, aesthetics & digital creativity  
 - 🎮 Gaming  
