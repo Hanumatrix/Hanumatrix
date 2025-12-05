@@ -1,6 +1,6 @@
 <!-- INTRO GIF -->
 <p align="center">
-  <img src="BLACK_EYES_GIF_LINK" width="420" />
+  <img src="gifs/intro.gif" width="420" />
 </p>
 
 <!-- TYPING HEADING -->
