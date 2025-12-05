@@ -93,7 +93,7 @@ A workspace built for students & creators:
 
 <!-- MUSIC GIF -->
 <p align="center">
-  <img src="MUSIC_GIF_LINK" width="420" />
+  <img src="gifs/music.gif" width="420" />
 </p>
 
 ## 🎧 Hobbies  
