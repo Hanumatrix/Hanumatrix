@@ -45,26 +45,13 @@
 
 ## ⚙️ Tech Stack
 
-### 🌸 Languages  
-**JavaScript • TypeScript • C++ • C • Python**
-
-### 🎨 Frontend  
-**React.js • Next.js (App Router) • TailwindCSS • HTML • CSS**
-
-### ⚙️ Backend  
-**Node.js • Express.js • REST APIs • Convex (real-time backend)**
-
-### 🔴 Real-Time & Media  
-**Stream Video SDK • WebSockets**
-
-### 🗄️ Databases  
-**MongoDB • Firebase • Supabase • SQL • Convex Storage**
-
-### 🤖 AI & Processing  
-**Gemini API • Vapi • PDF/DOCX Parsing • STT • Prompt Engineering**
-
-### 🛠 DevOps & Tools  
-**GitHub • Vercel • Netlify**
+**Languages:** JavaScript, TypeScript, Python, C++, C  
+**Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs, Convex (real-time backend)  
+**Real-Time Systems:** Stream Video SDK, WebSockets  
+**Databases:** MongoDB, Firebase, Supabase, SQL, Convex Storage  
+**AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, Speech-to-Text, Prompt Engineering  
+**DevOps & Tools:** GitHub, Vercel, Netlify  
 
 
 ### 🌸 Languages  
