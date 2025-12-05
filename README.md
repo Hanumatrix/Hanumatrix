@@ -26,7 +26,7 @@
 
 <!-- WAVE GIF -->
 <p align="center">
-  <img src="WAVE_GIF_LINK" width="420" />
+  <img src="gifs/tech.gif" width="420" />
 </p>
 
 ## 🚀 About Me  
