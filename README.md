@@ -38,107 +38,115 @@
 
 ---
 
-## 📦 Featured Projects  
-
-### 🔥 **GITA — Generated Important Topics through AI**  
-Your syllabus → Instant exam-ready notes.  
-GITA reads PDFs/DOCX & generates:  
-✔ Ranked important topics  
-✔ Fast revision notes  
-✔ Exam-style Q/A  
-✔ Coding problems  
-✔ Diagrams / visuals  
-
-🔗 **Repo:** https://github.com/Hanumatrix/GITA-Generated-Important-Topics-Through-AI  
-🌐 **Live App:** https://gita-generated-important-topics-thr.vercel.app/
-
----
-
-### 🎤 **Echohire — AI Interview Preparation Tool**  
-Your personal interview assistant with:  
-✔ HR questions  
-✔ Tech interview rounds  
-✔ Resume + ATS feedback  
-✔ Voice-based interactions  
-
-🔗 **Repo:** https://github.com/Hanumatrix/Echohire  
-
----
-
-### 👥 **WorkMate — Productivity & PBL Toolkit**  
-A workspace built for students & creators:  
-✔ Task manager  
-✔ Notes  
-✔ Utility hub  
-✔ Clean dashboard UI  
-
-🔗 **Repo:** https://github.com/Hanumatrix/WorkMate-PBL  
-
----
-
 <!-- TECH TRANSITION GIF -->
 <p align="center">
   <img src="gifs/wave.gif" width="420" />
 </p>
 
-## 🌸⚙️ Tech Stack — Anime Style  
+## ⚙️ Tech Stack
 
-<p align="center">
-  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧  
-  <br>
-  <i>My tools, powered by speed, peace & a little bit of anime energy.</i>
+**Languages:** JavaScript, TypeScript, C++, C, Python  
+**Frontend:** React.js, Next.js, TailwindCSS, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Databases:** MongoDB, Firebase, Supabase, SQLite  
+**AI:** Gemini API, Vapi  
+**DevOps & Tools:** GitHub, Vercel, Netlify  
+
+<p align="left">
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32" />
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
+
+  <!-- AI (Gemini + Vapi only) -->
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="45" title="Gemini API"/>
+  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
+
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
+
 </p>
 
 ---
 
-### 💛 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
-</p>
-
-<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
-
-### 💖 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
-</p>
-
-<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
-
-### 💚 Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32"/>
-</p>
-
-<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
-
-### 💎 Databases  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
-</p>
-
-<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
-
-### 🌙 AI Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=openai,googlecloud" height="45"/>
-  <img src="https://raw.githubusercontent.com/cogstack/llama-icons/main/icons/llama.png" height="45" title="LLaMA"/>
-  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
-</p>
-
-<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
-
-### ⚙️ DevOps & Hosting  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
-</p>
+## 🌱 Currently Building  
 
 <p align="center">
-  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧  
-  <br>
-  <i>Thanks for scrolling through my tech garden 🌸</i>
+  🌸 Currently refining and building these projects with clarity and focus. 🌸
 </p>
+
+---
+
+<!-- GITA GIF BANNER -->
+<p align="center">
+  <img src="YOUR_GITA_GIF_LINK" width="420" />
+</p>
+
+### 🔥 GITA — AI-Powered Study Generator  
+A tool that reads syllabus PDFs/DOCX and generates structured exam-ready content.
+
+**Currently working on:**  
+- Improving PDF/DOCX parsing, especially files with images  
+- Faster, cleaner topic extraction & ranking  
+- Better structured notes + exam-style Q/A  
+- Diagram/image extraction improvements  
+- Reducing response time through optimized prompts  
+
+---
+
+<!-- ECHOHIRE GIF BANNER -->
+<p align="center">
+  <img src="YOUR_ECHOHIRE_GIF_LINK" width="420" />
+</p>
+
+### 🎤 EchoHire — Complete AI Interview Ecosystem  
+A full platform for interviews with real-time video, live coding, scheduling, recordings, and AI feedback.  
+*(Based on your EchoHire document)* :contentReference[oaicite:0]{index=0}
+
+**Currently developing:**  
+- Real-time video interview flow using **Stream SDK**  
+- Integrated **live coding environment** inside interview UI  
+- **Convex scheduling** with real-time updates  
+- Auto **interview recordings** + storage mapping  
+- More natural **AI interviewer behavior**  
+- Structured scoring + transcript feedback  
+- Smoother interviewer dashboard + multi-round support  
+
+---
+
+<!-- WORKMATE GIF BANNER -->
+<p align="center">
+  <img src="YOUR_WORKMATE_GIF_LINK" width="420" />
+</p>
+
+### 👥 WorkMate — Student Job Matching Platform  
+A lightweight, fast job-matching tool for students & local providers.  
+*(Based on your WorkMate proposal)* :contentReference[oaicite:1]{index=1}
+
+**Currently working on:**  
+- Clean role-based dashboards (Student / Provider)  
+- Light/dark UI polish  
+- Job posting + management (localStorage + Context API)  
+- Designing future intelligent features:  
+  - **Dijkstra’s Algorithm** → nearest job suggestions  
+  - **Hungarian Algorithm** → optimal student-job matching  
+- Adding profiles, ratings, and analytics  
+
+---
+
+<p align="center">
+  🌸 Steady upgrades. Quiet focus. Better every day. 🌸
+</p>
+
 
 
 
