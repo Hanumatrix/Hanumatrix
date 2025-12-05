@@ -25,7 +25,9 @@
 ---
 
 <!-- WAVE GIF -->
-
+  <p align="center">
+  <img src="gifs/ME.gif" width="420" />
+</p>
 
 ## 🚀 About Me  
 - 💻 MERN stack developer turning ideas into production-ready products  
@@ -43,47 +45,58 @@
 
 ## ⚙️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, C++, C, Python  
-**Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs, Convex (real-time backend)  
-**Real-Time & Media:** Stream Video SDK  
-**Databases:** MongoDB, Firebase, Supabase, SQL, Convex Storage  
-**AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, STT, Prompt Engineering  
-**DevOps & Tools:** GitHub, Vercel, Netlify 
+### 🌸 Languages  
+**JavaScript • TypeScript • C++ • C • Python**
 
-<p align="left">
+### 🎨 Frontend  
+**React.js • Next.js (App Router) • TailwindCSS • HTML • CSS**
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
+### ⚙️ Backend  
+**Node.js • Express.js • REST APIs • Convex (real-time backend)**
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
+### 🔴 Real-Time & Media  
+**Stream Video SDK • WebSockets**
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32"/>
+### 🗄️ Databases  
+**MongoDB • Firebase • Supabase • SQL • Convex Storage**
 
-  <!-- Real-Time & Media -->
-  <img src="https://skillicons.dev/icons?i=websocket" height="45" title="Real-time communication"/>
-  <img src="https://img.shields.io/badge/Stream%20Video%20SDK-purple?style=for-the-badge" height="32" title="Stream Video SDK"/>
+### 🤖 AI & Processing  
+**Gemini API • Vapi • PDF/DOCX Parsing • STT • Prompt Engineering**
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
+### 🛠 DevOps & Tools  
+**GitHub • Vercel • Netlify**
 
-  <!-- AI + Processing -->
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="45" title="Gemini API"/>
-  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
-  <img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-orange?style=for-the-badge" height="32" title="Document Parsing"/>
-  <img src="https://img.shields.io/badge/STT%20%2F%20AI%20Processing-black?style=for-the-badge" height="32" title="Speech-to-Text & AI"/>
 
-  <!-- Algorithms -->
-  <img src="https://img.shields.io/badge/Dijkstra%20Algorithm-007acc?style=for-the-badge" height="32"/>
-  <img src="https://img.shields.io/badge/Hungarian%20Algorithm-ff1493?style=for-the-badge" height="32"/>
+### 🌸 Languages  
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
 
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
+### 🌸 Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
 
-</p>
+### 🌸 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+<img src="https://img.shields.io/badge/REST_APIs-blue?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Convex%20Backend-6E3CBC?style=flat-square" height="25"/>
+
+### 🌸 Real-Time & Media  
+<img src="https://img.shields.io/badge/Stream%20Video%20SDK-purple?style=flat-square" height="25"/>
+<img src="https://skillicons.dev/icons?i=websocket" height="45" title="WebSockets"/>
+
+### 🌸 Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
+
+### 🌸 AI & Processing  
+<img src="https://skillicons.dev/icons?i=googlecloud" height="45" title="Gemini API"/>
+<img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
+<img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-orange?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/STT%20%2F%20AI%20Processing-black?style=flat-square" height="25"/>
+
+### 🌸 Algorithms  
+<img src="https://img.shields.io/badge/Dijkstra%20Algorithm-007acc?style=flat-square" height="25"/>
+<img src="https://img.shields.io/badge/Hungarian%20Algorithm-ff1493?style=flat-square" height="25"/>
+
+### 🌸 DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
 
 
 ---
