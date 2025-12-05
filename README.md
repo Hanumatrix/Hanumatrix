@@ -44,11 +44,12 @@
 ## ⚙️ Tech Stack
 
 **Languages:** JavaScript, TypeScript, C++, C, Python  
-**Frontend:** React.js, Next.js, TailwindCSS, HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, Firebase, Supabase, SQLite  
-**AI:** Gemini API, Vapi  
-**DevOps & Tools:** GitHub, Vercel, Netlify  
+**Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
+**Backend:** Node.js, Express.js, REST APIs, Convex (real-time backend)  
+**Real-Time & Media:** Stream Video SDK  
+**Databases:** MongoDB, Firebase, Supabase, SQL, Convex Storage  
+**AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, STT, Prompt Engineering  
+**DevOps & Tools:** GitHub, Vercel, Netlify 
 
 <p align="left">
 
@@ -60,19 +61,30 @@
 
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32"/>
+
+  <!-- Real-Time & Media -->
+  <img src="https://skillicons.dev/icons?i=websocket" height="45" title="Real-time communication"/>
+  <img src="https://img.shields.io/badge/Stream%20Video%20SDK-purple?style=for-the-badge" height="32" title="Stream Video SDK"/>
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
 
-  <!-- AI (Gemini + Vapi only) -->
+  <!-- AI + Processing -->
   <img src="https://skillicons.dev/icons?i=googlecloud" height="45" title="Gemini API"/>
   <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
+  <img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-orange?style=for-the-badge" height="32" title="Document Parsing"/>
+  <img src="https://img.shields.io/badge/STT%20%2F%20AI%20Processing-black?style=for-the-badge" height="32" title="Speech-to-Text & AI"/>
+
+  <!-- Algorithms -->
+  <img src="https://img.shields.io/badge/Dijkstra%20Algorithm-007acc?style=for-the-badge" height="32"/>
+  <img src="https://img.shields.io/badge/Hungarian%20Algorithm-ff1493?style=for-the-badge" height="32"/>
 
   <!-- DevOps -->
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
 
 </p>
+
 
 ---
 
@@ -89,71 +101,55 @@
 
 ---
 
-<!-- GITA GIF BANNER -->
-<p align="center">
-  <img src="YOUR_GITA_GIF_LINK" width="420" />
-</p>
+<!-- GITA -->
 
 ### 🔥 GITA — AI-Powered Study Generator  
 A tool that reads syllabus PDFs/DOCX and generates structured exam-ready content.
 
 **Currently working on:**  
-- Improving PDF/DOCX parsing, especially files with images  
-- Faster, cleaner topic extraction & ranking  
-- Better structured notes + exam-style Q/A  
-- Diagram/image extraction improvements  
-- Reducing response time through optimized prompts  
+- 🖼️ Improving PDF/DOCX parsing, especially files with images  
+- ⚡ Faster, cleaner topic extraction & ranking  
+- 🧾 Better structured notes + exam-style Q/A  
+- 🖌️ Diagram/image extraction improvements  
+- 🚀 Reducing response time through optimized prompts  
 
 ---
 
-<!-- ECHOHIRE GIF BANNER -->
-<p align="center">
-  <img src="YOUR_ECHOHIRE_GIF_LINK" width="420" />
-</p>
+<!-- ECHOHIRE -->
 
 ### 🎤 EchoHire — Complete AI Interview Ecosystem  
 A full platform for interviews with real-time video, live coding, scheduling, recordings, and AI feedback.  
-*(Based on your EchoHire document)* :contentReference[oaicite:0]{index=0}
+*(Based on your EchoHire document)*
 
 **Currently developing:**  
-- Real-time video interview flow using **Stream SDK**  
-- Integrated **live coding environment** inside interview UI  
-- **Convex scheduling** with real-time updates  
-- Auto **interview recordings** + storage mapping  
-- More natural **AI interviewer behavior**  
-- Structured scoring + transcript feedback  
-- Smoother interviewer dashboard + multi-round support  
+- 🎥 Real-time video interview flow using **Stream SDK**  
+- 💻 Integrated **live coding environment** inside interview UI  
+- 🗂️ **Convex scheduling** with real-time updates  
+- 📼 Auto **interview recordings** + storage mapping  
+- 🤖 More natural **AI interviewer behavior**  
+- 📝 Structured scoring + transcript feedback  
+- 🧭 Smoother interviewer dashboard + multi-round support  
 
 ---
 
-<!-- WORKMATE GIF BANNER -->
-<p align="center">
-  <img src="YOUR_WORKMATE_GIF_LINK" width="420" />
-</p>
+<!-- WORKMATE -->
 
 ### 👥 WorkMate — Student Job Matching Platform  
 A lightweight, fast job-matching tool for students & local providers.  
-*(Based on your WorkMate proposal)* :contentReference[oaicite:1]{index=1}
+*(Based on your WorkMate proposal)*
 
 **Currently working on:**  
-- Clean role-based dashboards (Student / Provider)  
-- Light/dark UI polish  
-- Job posting + management (localStorage + Context API)  
-- Designing future intelligent features:  
-  - **Dijkstra’s Algorithm** → nearest job suggestions  
-  - **Hungarian Algorithm** → optimal student-job matching  
-- Adding profiles, ratings, and analytics  
-
----
+- 🧑‍💼 Clean role-based dashboards (Student / Provider)  
+- 🎨 Light/dark UI polish  
+- 📦 Job posting + management (localStorage + Context API)  
+- 🧠 Designing future intelligent features:  
+  - 🧭 **Dijkstra’s Algorithm** → nearest job suggestions  
+  - 🔢 **Hungarian Algorithm** → optimal student-job matching  
+- ⭐ Adding profiles, ratings, and analytics  
 
 <p align="center">
   🌸 Steady upgrades. Quiet focus. Better every day. 🌸
 </p>
-
-
-
-
- 
 
 ---
 
