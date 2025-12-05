@@ -81,55 +81,63 @@ A workspace built for students & creators:
   <img src="gifs/wave.gif" width="420" />
 </p>
 
-## 🌸🧰 Tech I Use  
+## 🌸⚙️ Tech Stack — Anime Style  
 
 <p align="center">
-  <i>Code that feels smooth, fast, and a little bit anime-powered.</i>
+  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧  
+  <br>
+  <i>My tools, powered by speed, peace & a little bit of anime energy.</i>
 </p>
 
 ---
 
 ### 💛 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="48" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
 </p>
 
----
+<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
 
 ### 💖 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
 </p>
 
----
+<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
 
 ### 💚 Backend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
+  <img src="https://img.shields.io/badge/REST%20API-025?style=for-the-badge&color=blue&logoColor=white" height="32"/>
 </p>
 
----
+<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
 
-### 💎 Databases & Storage  
+### 💎 Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
 </p>
 
----
+<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
 
 ### 🌙 AI Tools  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="40" title="OpenAI" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="40" title="Llama" />
-  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="40" title="Vapi" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" title="Gemini API" />
+  <img src="https://skillicons.dev/icons?i=openai,googlecloud" height="45"/>
+  <img src="https://raw.githubusercontent.com/cogstack/llama-icons/main/icons/llama.png" height="45" title="LLaMA"/>
+  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
 </p>
 
----
+<p align="center">🌸 ✦ 🌸 ✦ 🌸</p>
 
 ### ⚙️ DevOps & Hosting  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="48" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
+</p>
+
+<p align="center">
+  ✧･ﾟ: *✧･ﾟ:* 🌸 *:･ﾟ✧*:･ﾟ✧  
+  <br>
+  <i>Thanks for scrolling through my tech garden 🌸</i>
 </p>
 
 
@@ -139,12 +147,11 @@ A workspace built for students & creators:
 ---
 
 <!-- MUSIC GIF -->
-## 🎧 Hobbies 
-
 <p align="center">
   <img src="gifs/music.gif" width="420" />
 </p>
 
+ ## 🎧 Hobbies 
  
 - 🎵 Vibing to music & Lo-fi  
 - 🎨 Anime art, aesthetics & digital creativity  
