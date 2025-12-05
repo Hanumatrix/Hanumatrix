@@ -127,7 +127,7 @@ A workspace built for students & creators:
 
 <!-- TIRED GIF -->
 <p align="center">
-  <img src="TIRED_GIF_LINK" width="420" />
+  <img src="gifs/tired.gif" width="420" />
 </p>
 
 ## 😮‍💨 That's all… I'm tired now  
