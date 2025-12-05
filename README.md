@@ -96,57 +96,43 @@ A workspace built for students & creators:
   }
 </style>
 
-<table>
+<table align="center">
   <tr>
-
-    <!-- LANGUAGES -->
-    <td align="center" class="anime-card">
+    <td align="center" width="200">
       <h3>🌸 Languages</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="48" />
     </td>
-
-    <!-- FRONTEND -->
-    <td align="center" class="anime-card">
+    <td align="center" width="200">
       <h3>🌸 Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" height="48" />
     </td>
-
-    <!-- BACKEND -->
-    <td align="center" class="anime-card">
+    <td align="center" width="200">
       <h3>🌸 Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
     </td>
-
   </tr>
-  
-  <tr>
 
-    <!-- DATABASES -->
-    <td align="center" class="anime-card">
+  <tr>
+    <td align="center" width="200">
       <h3>🌸 Databases</h3>
       <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="48" />
     </td>
-
-    <!-- AI TOOLS -->
-    <td align="center" class="anime-card">
+    <td align="center" width="200">
       <h3>🌸 AI Tools</h3>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="42" title="OpenAI" /> 
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="42" title="Llama" /> 
-      <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="42" title="Vapi" />
-      <br><img src="https://skillicons.dev/icons?i=googlecloud" height="42" title="Gemini API" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="42" />
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="42" />
+      <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="42" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=googlecloud" height="42" />
     </td>
-
-    <!-- DEVOPS -->
-    <td align="center" class="anime-card">
+    <td align="center" width="200">
       <h3>🌸 DevOps</h3>
       <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="48" />
     </td>
-
   </tr>
-
 </table>
 
-</div>
+
  
 
 ---
