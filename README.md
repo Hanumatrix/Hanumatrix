@@ -1,7 +1,9 @@
 <!-- INTRO GIF -->
-<p align="center">
-  <img src="gifs/intro.gif" width="420" style="border-radius: 12px;" />
-</p>
+<div align="center">
+  <picture>
+    <img src="gifs/intro.gif" width="420" style="border-radius: 12px;">
+  </picture>
+</div>
 
 <!-- TYPING HEADING -->
 <h1 align="center">
