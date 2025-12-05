@@ -1,8 +1,7 @@
 <!-- INTRO GIF -->
-<div align="center" style="border-radius: 12; overflow: hidden; width: 420; margin: auto;">
+<p align="center">
   <img src="gifs/intro.gif" width="420" />
-</div>
-
+</p>
 
 <!-- TYPING HEADING -->
 <h1 align="center">
@@ -27,7 +26,7 @@
 
 <!-- WAVE GIF -->
   <p align="center">
-  <img src="gifs/ME.gif" width="420" style="border-radius: 12px;" />
+  <img src="gifs/ME.gif" width="420"  />
 </p>
 
 ## 🚀 About Me  
@@ -42,7 +41,7 @@
 
 <!-- TECH TRANSITION GIF -->
 <p align="center">
-  <img src="gifs/wave.gif" width="420" style="border-radius: 12px;" />
+  <img src="gifs/wave.gif" width="420"  />
 </p>
 
 ## ⚙️ Tech Stack  
@@ -77,7 +76,7 @@
 
 <!-- Project gif -->
 <p align="center">
-  <img src="gifs/tech.gif" width="420" style="border-radius: 12px;" />
+  <img src="gifs/tech.gif" width="420" />
 </p>
 
 ## 🌱 Currently Building  
@@ -142,7 +141,7 @@ A lightweight, fast job-matching tool for students & local providers.
 
 <!-- MUSIC GIF -->
 <p align="center">
-  <img src="gifs/music.gif" width="420" style="border-radius: 12px;" />
+  <img src="gifs/music.gif" width="420" />
 </p>
 
  ## 🎧 Hobbies 
@@ -177,7 +176,7 @@ A lightweight, fast job-matching tool for students & local providers.
 
 <!-- TIRED GIF -->
 <p align="center">
-  <img src="gifs/tired.gif" width="420" style="border-radius: 12px;"/>
+  <img src="gifs/tired.gif" width="420" "/>
 </p>
 
 ## 😮‍💨 That's all… I'm tired now  
