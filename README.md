@@ -1,6 +1,6 @@
 <!-- INTRO GIF -->
 <p align="center">
-  <img src="gifs/intro.gif" width="420" />
+  <img src="gifs/intro.gif" width="420" style="border-radius: 12px;" />
 </p>
 
 <!-- TYPING HEADING -->
@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong>I build products that feel alive — clean engineering with creative storytelling.</strong>
+  <strong>I create softly, grow quietly, and move forward one gentle step at a time.🌸</strong>
 </p>
 
 ---
@@ -26,24 +26,25 @@
 
 <!-- WAVE GIF -->
   <p align="center">
-  <img src="gifs/ME.gif" width="420" />
+  <img src="gifs/ME.gif" width="420" style="border-radius: 12px;" />
 </p>
 
 ## 🚀 About Me  
-- 💻 MERN stack developer turning ideas into production-ready products  
-- 🤖 Building AI-powered apps that solve real problems  
-- 🔥 Strong in backend architecture, APIs & clean code  
+- 💻 Turning ideas into fast, functional, production-ready products  
+- 🤖 Building AI-powered tools that solve real problems with clarity  
+- ⚙️ Strong in backend architecture, APIs, and clean engineering  
 - 🧠 DSA practitioner (C++ / LeetCode)  
-- ✨ Obsessed with building tools that save time & look beautiful  
+- ✨ Focused on creating tools that save time and feel beautiful to use  
+
 
 ---
 
 <!-- TECH TRANSITION GIF -->
 <p align="center">
-  <img src="gifs/wave.gif" width="420" />
+  <img src="gifs/wave.gif" width="420" style="border-radius: 12px;" />
 </p>
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack  
 
 **Languages:** JavaScript, TypeScript, Python, C++, C  
 **Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
@@ -53,44 +54,29 @@
 **AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, Speech-to-Text, Prompt Engineering  
 **DevOps & Tools:** GitHub, Vercel, Netlify  
 
+<p align="left">
+  <!-- main tech icons row -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="40"/>
+</p>
 
-### 🌸 Languages  
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="45"/>
-
-### 🌸 Frontend  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="45"/>
-
-### 🌸 Backend  
-<img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
-<img src="https://img.shields.io/badge/REST_APIs-blue?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Convex%20Backend-6E3CBC?style=flat-square" height="25"/>
-
-### 🌸 Real-Time & Media  
-<img src="https://img.shields.io/badge/Stream%20Video%20SDK-purple?style=flat-square" height="25"/>
-<img src="https://skillicons.dev/icons?i=websocket" height="45" title="WebSockets"/>
-
-### 🌸 Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="45"/>
-
-### 🌸 AI & Processing  
-<img src="https://skillicons.dev/icons?i=googlecloud" height="45" title="Gemini API"/>
-<img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="45" title="Vapi"/>
-<img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-orange?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/STT%20%2F%20AI%20Processing-black?style=flat-square" height="25"/>
-
-### 🌸 Algorithms  
-<img src="https://img.shields.io/badge/Dijkstra%20Algorithm-007acc?style=flat-square" height="25"/>
-<img src="https://img.shields.io/badge/Hungarian%20Algorithm-ff1493?style=flat-square" height="25"/>
-
-### 🌸 DevOps & Tools  
-<img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="45"/>
-
+<p align="left">
+  <!-- small secondary badges row (like his AI row) -->
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-F39C12?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Speech--to--Text-111111?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge" height="28"/>
+</p>
 
 ---
 
 <!-- Project gif -->
 <p align="center">
-  <img src="gifs/tech.gif" width="420" />
+  <img src="gifs/tech.gif" width="420" style="border-radius: 12px;" />
 </p>
 
 ## 🌱 Currently Building  
@@ -155,7 +141,7 @@ A lightweight, fast job-matching tool for students & local providers.
 
 <!-- MUSIC GIF -->
 <p align="center">
-  <img src="gifs/music.gif" width="420" />
+  <img src="gifs/music.gif" width="420" style="border-radius: 12px;" />
 </p>
 
  ## 🎧 Hobbies 
@@ -190,7 +176,7 @@ A lightweight, fast job-matching tool for students & local providers.
 
 <!-- TIRED GIF -->
 <p align="center">
-  <img src="gifs/tired.gif" width="420" />
+  <img src="gifs/tired.gif" width="420" style="border-radius: 12px;"/>
 </p>
 
 ## 😮‍💨 That's all… I'm tired now  
