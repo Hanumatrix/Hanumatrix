@@ -1,5 +1,5 @@
 <!-- INTRO GIF -->
-<div align="center" style="border-radius: 12px; overflow: hidden; width: 420px; margin: auto;">
+<div align="center" style="border-radius: 12; overflow: hidden; width: 420; margin: auto;">
   <img src="gifs/intro.gif" width="420" />
 </div>
 
