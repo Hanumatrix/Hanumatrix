@@ -81,56 +81,57 @@ A workspace built for students & creators:
   <img src="gifs/wave.gif" width="420" />
 </p>
 
-## 🌸🧰 Tech I Use — Anime Aesthetic Edition  
+## 🌸🧰 Tech I Use  
 
-<div align="center">
+<p align="center">
+  <i>Code that feels smooth, fast, and a little bit anime-powered.</i>
+</p>
 
-<style>
-  .anime-card {
-    border-radius: 16px;
-    padding: 20px;
-    margin: 10px;
-    background: rgba(255, 235, 245, 0.6);
-    backdrop-filter: blur(6px);
-    box-shadow: 0px 0px 12px rgba(255, 150, 200, 0.35);
-  }
-</style>
+---
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <h3>🌸 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="48" />
-    </td>
-    <td align="center" width="200">
-      <h3>🌸 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" height="48" />
-    </td>
-    <td align="center" width="200">
-      <h3>🌸 Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
-    </td>
-  </tr>
+### 💛 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="48" />
+</p>
 
-  <tr>
-    <td align="center" width="200">
-      <h3>🌸 Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="48" />
-    </td>
-    <td align="center" width="200">
-      <h3>🌸 AI Tools</h3>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="42" />
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="42" />
-      <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="42" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=googlecloud" height="42" />
-    </td>
-    <td align="center" width="200">
-      <h3>🌸 DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="48" />
-    </td>
-  </tr>
-</table>
+---
+
+### 💖 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" height="48" />
+</p>
+
+---
+
+### 💚 Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+</p>
+
+---
+
+### 💎 Databases & Storage  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="48" />
+</p>
+
+---
+
+### 🌙 AI Tools  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="40" title="OpenAI" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="40" title="Llama" />
+  <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="40" title="Vapi" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="40" title="Gemini API" />
+</p>
+
+---
+
+### ⚙️ DevOps & Hosting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="48" />
+</p>
+
 
 
  
