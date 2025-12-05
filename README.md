@@ -81,13 +81,73 @@ A workspace built for students & creators:
   <img src="gifs/wave.gif" width="420" />
 </p>
 
-## 🧰 Tech I Use  
-**Languages:** JavaScript, TypeScript, C++, C  
-**Frontend:** React.js, TailwindCSS, HTML, CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**AI Tools:** Gemini API, HuggingFace  
-**DevOps:** Git, GitHub Actions, Vercel, Render  
+## 🌸🧰 Tech I Use — Anime Aesthetic Edition  
+
+<div align="center">
+
+<style>
+  .anime-card {
+    border-radius: 16px;
+    padding: 20px;
+    margin: 10px;
+    background: rgba(255, 235, 245, 0.6);
+    backdrop-filter: blur(6px);
+    box-shadow: 0px 0px 12px rgba(255, 150, 200, 0.35);
+  }
+</style>
+
+<table>
+  <tr>
+
+    <!-- LANGUAGES -->
+    <td align="center" class="anime-card">
+      <h3>🌸 Languages</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp,c,python" height="48" />
+    </td>
+
+    <!-- FRONTEND -->
+    <td align="center" class="anime-card">
+      <h3>🌸 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,nextjs" height="48" />
+    </td>
+
+    <!-- BACKEND -->
+    <td align="center" class="anime-card">
+      <h3>🌸 Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
+    </td>
+
+  </tr>
+  
+  <tr>
+
+    <!-- DATABASES -->
+    <td align="center" class="anime-card">
+      <h3>🌸 Databases</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="48" />
+    </td>
+
+    <!-- AI TOOLS -->
+    <td align="center" class="anime-card">
+      <h3>🌸 AI Tools</h3>
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png" height="42" title="OpenAI" /> 
+      <img src="https://raw.githubusercontent.com/github/explore/main/topics/llama/llama.png" height="42" title="Llama" /> 
+      <img src="https://avatars.githubusercontent.com/u/138310289?s=200&v=4" height="42" title="Vapi" />
+      <br><img src="https://skillicons.dev/icons?i=googlecloud" height="42" title="Gemini API" />
+    </td>
+
+    <!-- DEVOPS -->
+    <td align="center" class="anime-card">
+      <h3>🌸 DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="48" />
+    </td>
+
+  </tr>
+
+</table>
+
+</div>
+ 
 
 ---
 
@@ -97,20 +157,19 @@ A workspace built for students & creators:
 </p>
 
 ## 🎧 Hobbies  
-- 🎵 Music & Lo-fi  
-- 🎨 Anime aesthetic design  
+- 🎵 Vibing to music & Lo-fi  
+- 🎨 Anime art, aesthetics & digital creativity  
 - 🎮 Gaming  
-- ✍️ Writing & creating digital experiences  
-- 💡 Experimenting with AI  
+- ⚡ Enjoying speed & peace  
+- ✈️ Travelling to new places  
+- 📚 Reading mindset & self-growth books  
+- ✍️ Writing thoughts, ideas & stories  
+
 
 ---
 
 ## 📊 GitHub Overview  
 
-<p align="center">
-  <!-- Main stats card -->
-  <img src="https://gh-stats-card.vercel.app/api/hanumatrix" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hanumatrix&theme=tokyonight&hide_border=true" width="48%" />
