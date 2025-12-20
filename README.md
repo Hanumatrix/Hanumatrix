@@ -79,11 +79,12 @@
   <img src="gifs/tech.gif" width="420" />
 </p>
 
-## 🌱 Currently Building  
+## 🚀 Featured Projects  
 
 <p align="center">
-  🌸 Currently refining and building these projects with clarity and focus. 🌸
+  🌸 Fully built projects showcasing problem-solving and real-world execution. 🌸
 </p>
+
 
 ---
 
