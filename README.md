@@ -16,7 +16,7 @@
 
 <!-- BADGES -->
 <p align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/tushar_rana_20_?igsh=MTY2MDMzZTZsZzAzOA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
