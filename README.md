@@ -16,6 +16,15 @@
 
 <!-- BADGES -->
 <p align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-MERN-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%20Builder-Gemini%20API-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge" />
@@ -163,7 +172,7 @@ A lightweight, fast job-matching tool for students & local providers.
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hanumatrix&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanumatrix&theme=github-compact&hide_border=true" />
 </p>
 
 
