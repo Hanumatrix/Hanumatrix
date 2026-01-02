@@ -168,12 +168,12 @@ A lightweight, fast job-matching tool for students & local providers.
 
 ---
 
-## 📊 GitHub Overview  
-
+## 📊 GitHub Overview   
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanumatrix&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanumatrix&show_icons=false&hide_border=true&theme=github_dark" />
 </p>
+
 
 
 ---
