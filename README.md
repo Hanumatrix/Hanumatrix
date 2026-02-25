@@ -57,9 +57,9 @@
 
 **Languages:** JavaScript, TypeScript, Python, C++, C  
 **Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs, Convex (real-time backend)  
+**Backend:** Node.js, REST APIs, Convex (real-time backend)  
 **Real-Time Systems:** Stream Video SDK, WebSockets  
-**Databases:** MongoDB, Firebase, Supabase, SQL, Convex Storage  
+**Databases:** MongoDB, Firebase, Supabase, SQL, Convex  
 **AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, Speech-to-Text, Prompt Engineering  
 **DevOps & Tools:** GitHub, Vercel, Netlify  
 
@@ -126,22 +126,6 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 - 📝 Structured scoring + transcript feedback  
 - 🧭 Smoother interviewer dashboard + multi-round support  
 
----
-
-<!-- WORKMATE -->
-
-### 👥 WorkMate — Student Job Matching Platform  
-A lightweight, fast job-matching tool for students & local providers.  
-*(Based on your WorkMate proposal)*
-
-**Currently working on:**  
-- 🧑‍💼 Clean role-based dashboards (Student / Provider)  
-- 🎨 Light/dark UI polish  
-- 📦 Job posting + management (localStorage + Context API)  
-- 🧠 Designing future intelligent features:  
-  - 🧭 **Dijkstra’s Algorithm** → nearest job suggestions  
-  - 🔢 **Hungarian Algorithm** → optimal student-job matching  
-- ⭐ Adding profiles, ratings, and analytics  
 
 ---
 <p align="center">
