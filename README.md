@@ -55,12 +55,11 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** JavaScript, TypeScript, Python, C++, C  
-**Frontend:** React.js, Next.js (App Router), TailwindCSS, HTML, CSS  
+**Languages:** JavaScript, Python, C++, C  
+**Frontend:** React.js, HTML, CSS  
 **Backend:** Node.js, REST APIs, Convex (real-time backend)  
 **Real-Time Systems:** Stream Video SDK, WebSockets  
 **Databases:** MongoDB, Firebase, Supabase, SQL, Convex  
-**AI & Processing:** Gemini API, Vapi, PDF/DOCX Parsing, Speech-to-Text, Prompt Engineering  
 **DevOps & Tools:** GitHub, Vercel, Netlify  
 
 <p align="left">
@@ -70,15 +69,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="40"/>
-</p>
-
-<p align="left">
-  <!-- small secondary badges row (like his AI row) -->
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/PDF%2FDoc%20Parsing-F39C12?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Speech--to--Text-111111?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge" height="28"/>
 </p>
 
 ---
@@ -115,7 +105,7 @@ A tool that reads syllabus PDFs/DOCX and generates structured exam-ready content
 
 ### 🎤 EchoHire — Complete AI Interview Ecosystem  
 A full platform for interviews with real-time video, live coding, scheduling, recordings, and AI feedback.  
-*(Based on your EchoHire document)*
+
 
 **Currently developing:**  
 - 🎥 Real-time video interview flow using **Stream SDK**  
