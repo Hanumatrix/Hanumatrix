@@ -41,7 +41,7 @@
 - 💻 Turning ideas into fast, functional, production-ready products  
 - 🤖 Building AI-powered tools that solve real problems with clarity  
 - ⚙️ Strong in backend architecture, APIs, and clean engineering  
-- 🧠 DSA practitioner (C++ / LeetCode)  
+- 🧠 DSA (C++ / LeetCode)  
 - ✨ Focused on creating tools that save time and feel beautiful to use  
 
 
