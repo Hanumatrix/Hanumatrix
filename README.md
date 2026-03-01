@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-MERN-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Builder-Gemini%20API-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To-SDE%20Roles-green?style=for-the-badge" />
 </p>
