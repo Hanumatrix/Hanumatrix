@@ -102,7 +102,7 @@ A tool that reads syllabus PDFs/DOCX and generates structured exam-ready content
 
 <!-- ECHOHIRE -->
 
-### 🎤 EchoHire — Complete AI Interview Ecosystem  
+### EchoHire 
 A full platform for interviews with real-time video, live coding, scheduling, recordings, and AI feedback.  
 
 
@@ -111,7 +111,6 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 - 💻 Integrated **live coding environment** inside interview UI  
 - 🗂️ **Convex scheduling** with real-time updates  
 - 📼 Auto **interview recordings** + storage mapping  
-- 🤖 More natural **AI interviewer behavior**  
 - 📝 Structured scoring + transcript feedback  
 - 🧭 Smoother interviewer dashboard + multi-round support  
 
