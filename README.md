@@ -19,16 +19,13 @@
   <a href="https://www.instagram.com/tushar_rana_20_?igsh=MTY2MDMzZTZsZzAzOA==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  
   <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-MERN-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-LeetCode-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-SDE%20Roles-green?style=for-the-badge" />
-</p>
+
 
 ---
 
