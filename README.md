@@ -12,7 +12,6 @@
   <strong>I create softly, grow quietly, and move forward one gentle step at a time.🌸</strong>
 </p>
 
----
 
 <!-- BADGES -->
 <p align="center">
