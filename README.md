@@ -26,8 +26,6 @@
 
 
 
----
-
 <!-- WAVE GIF -->
   <p align="center">
   <img src="gifs/ME.gif" width="420"  />
