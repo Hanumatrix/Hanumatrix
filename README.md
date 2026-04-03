@@ -48,11 +48,11 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** C, C++, Javascript, Pyhton(Basic) 
-**Frontend:** HTML, CSS, React.js
-**Backend:** Node.js, REST APIs, Convex (real-time backend)  
-**Real-Time Systems:** Stream Video SDK, WebSockets  
-**Databases:** MongoDB, Firebase, Supabase, SQL, Convex  
+**Languages:** C, C++, Javascript, Pyhton(Basic) <br />
+**Frontend:** HTML, CSS, React.js <br />
+**Backend:** Node.js, REST APIs, Convex (real-time backend)  <br />
+**Real-Time Systems:** Stream Video SDK, WebSockets  <br />
+**Databases:** MongoDB, Firebase, Supabase, SQL, Convex  <br />
 **DevOps & Tools:** GitHub, Vercel, Netlify  
 
 <p align="left">
