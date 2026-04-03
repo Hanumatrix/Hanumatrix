@@ -59,7 +59,7 @@
   <!-- main tech icons row -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" height="40"/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="40"/>
 </p>
