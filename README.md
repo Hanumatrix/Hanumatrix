@@ -48,7 +48,7 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** C, C++, Javascript, Pyhton(Basic) <br />
+**Languages:** C, C++, Javascript, Python(Basic) <br />
 **Frontend:** HTML, CSS, React.js <br />
 **Backend:** Node.js, REST APIs, Convex (real-time backend)  <br />
 **Real-Time Systems:** Stream Video SDK, WebSockets  <br />
