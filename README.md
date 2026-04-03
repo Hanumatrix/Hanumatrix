@@ -57,8 +57,8 @@
 
 <p align="left">
   <!-- main tech icons row -->
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i= html,css,react" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
   <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="40"/>
