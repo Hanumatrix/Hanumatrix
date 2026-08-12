@@ -3,18 +3,21 @@
   <img src="gifs/intro.gif" width="100%" height="350px"/>
 </p>
 
-<!-- TYPING HEADING -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Hanumatrix+%F0%9F%91%8B;A+coder+who+turns+ideas+into+things+that+work." alt="Typing SVG" />
-</h1>
+<!-- ABOUT ME -->
+<h2 align="center">✦ About Me ✦</h2>
 
+<p align="center">
+  Developer who enjoys <b>building from scratch, solving problems, and figuring out how things work.</b>
+</p>
 
-## 🚀 About Me  
-- 💻 Turning ideas into fast, functional, production-ready products  
-- 🤖 Building AI-powered tools that solve real problems with clarity  
-- ⚙️ Strong in backend architecture, APIs, and clean engineering  
-- 🧠 DSA (C++ / LeetCode)  
-- ✨ Focused on creating tools that save time and feel beautiful to use  
+<ul>
+  <li>🚀 Turning ideas into <b>real-world products</b></li>
+  <li>⚡ Building <b>full-stack & real-time applications</b></li>
+  <li>🤖 Exploring <b>AI-powered experiences</b></li>
+  <li>🧩 Practicing <b>DSA & problem solving</b> with C++</li>
+  <li>⚙️ Learning <b>backend systems, APIs & scalable architecture</b></li>
+  <li>🔄 Believing the best way to learn is to <b>build, break, and rebuild</b></li>
+</ul>
 
 
 ---
