@@ -8,28 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Hanumatrix+%F0%9F%91%8B;A+coder+who+turns+ideas+into+things+that+work." alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <strong>I create softly, grow quietly, and move forward one gentle step at a time.🌸</strong>
-</p>
-
-
-<!-- BADGES -->
-<p align="center">
-  <a href="https://www.instagram.com/tushar_rana_20_?igsh=MTY2MDMzZTZsZzAzOA==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-
-
-<!-- WAVE GIF -->
-  <p align="center">
-  <img src="gifs/ME.gif" width="420"  />
-</p>
 
 ## 🚀 About Me  
 - 💻 Turning ideas into fast, functional, production-ready products  
@@ -140,6 +118,17 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 ## 😮‍💨 That's all… I'm tired now  
 Thanks for stopping by — feel free to connect anytime!  
+
+<!-- BADGES -->
+<p align="center">
+  <a href="https://www.instagram.com/tushar_rana_20_?igsh=MTY2MDMzZTZsZzAzOA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 <p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
 
