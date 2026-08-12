@@ -26,12 +26,13 @@
 
 ---
 
+
+## ⚙️ Tech Stack  
+
 <!-- TECH TRANSITION GIF -->
 <p align="center">
   <img src="gifs/wave.gif" width="420"  />
 </p>
-
-## ⚙️ Tech Stack  
 
 
 <p align="left">
@@ -50,7 +51,7 @@
 
 <!-- Project gif -->
 <p align="center">
-  <img src="gifs/tech.gif" width="100%" height="200px"/>
+  <img src="gifs/tech.gif" width="420"/>
 </p>
 
 <p align="center">
@@ -101,7 +102,7 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
  <!-- MUSIC GIF -->
 <p align="center">
-  <img src="gifs/music.gif" width="100%"  height="200px"/>
+  <img src="gifs/music.gif" width="420px" />
 </p>
  
 - 🎵 Vibing to music & Lo-fi  
@@ -112,6 +113,25 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 - 📚 Reading mindset & self-growth books  
 - ✍️ Writing thoughts, ideas & stories  
 
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">Find Me</h2>
+
+<p align="center">
+  <a href="mailto:tusharrana200@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/tushar_rana_20_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 
 ---
@@ -125,30 +145,17 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 <!-- ENDING GIF -->
 <p align="center">
-  <img src="gifs/tired.gif" width="100%" heigth="200px"/>
+  <img src="gifs/tired.gif" width="420px" />
 </p>
 
 <br>
 
-<p align="center">
-  <b>Let's stay connected ↓</b>
-</p>
-
-<p align="center">
-  <a href="https://www.instagram.com/tushar_rana_20_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
 
 <br>
 
 <p align="center">
-  <i>And that's where I disappear back into the terminal.</i> 🌙
-  <br><br>
+  <i>And that's where I disappear back into the terminal.</i>
+  <br>
   <sub>Until the next commit.</sub> 👋
 </p>
 
