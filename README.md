@@ -127,7 +127,7 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 <!-- ENDING GIF -->
 <p align="center">
-  <img src="gifs/tired.gif" width="100%" />
+  <img src="gifs/tired.gif" width="100%" heigth="300px"/>
 </p>
 
 <br>
