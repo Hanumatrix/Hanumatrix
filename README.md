@@ -1,6 +1,6 @@
 <!-- INTRO GIF -->
 <p align="center">
-  <img src="gifs/intro.gif" width="100%" height="100px"/>
+  <img src="gifs/intro.gif" width="100%" height="400px"/>
 </p>
 
 <!-- TYPING HEADING -->
