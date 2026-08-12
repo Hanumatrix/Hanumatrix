@@ -156,6 +156,6 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 <p align="center">
   <i>And that's where I disappear back into the terminal.</i>
   <br>
-  <sub>Until the next commit.</sub> 👋
+  <b>Until the next commit.</b>👋
 </p>
 
