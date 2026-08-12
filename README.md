@@ -33,12 +33,6 @@
 
 ## ⚙️ Tech Stack  
 
-**Languages:** C, C++, Javascript, Python(Basic) <br />
-**Frontend:** HTML, CSS, React.js <br />
-**Backend:** Node.js, REST APIs, Convex (real-time backend)  <br />
-**Real-Time Systems:** Stream Video SDK, WebSockets  <br />
-**Databases:** MongoDB, Firebase, Supabase, SQL, Convex  <br />
-**DevOps & Tools:** GitHub, Vercel, Netlify  
 
 <p align="left">
   <!-- main tech icons row -->
@@ -46,17 +40,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,react" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github,vercel,netlify" height="40"/>
 </p>
 
 ---
 
-<!-- Project gif -->
-<p align="center">
-  <img src="gifs/tech.gif" width="100%" />
-</p>
+
 
 ## 🚀 Featured Projects  
+
+<!-- Project gif -->
+<p align="center">
+  <img src="gifs/tech.gif" width="100%" height="200px"/>
+</p>
 
 <p align="center">
   🌸 Fully built projects showcasing problem-solving and real-world execution. 🌸
@@ -101,12 +96,13 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 ---
 
-<!-- MUSIC GIF -->
-<p align="center">
-  <img src="gifs/music.gif" width="100%" />
-</p>
 
  ## 🎧 Hobbies 
+
+ <!-- MUSIC GIF -->
+<p align="center">
+  <img src="gifs/music.gif" width="100%"  height="200px"/>
+</p>
  
 - 🎵 Vibing to music & Lo-fi  
 - 🎨 Anime art, aesthetics & digital creativity  
@@ -115,6 +111,8 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 - ✈️ Travelling to new places  
 - 📚 Reading mindset & self-growth books  
 - ✍️ Writing thoughts, ideas & stories  
+
+
 
 ---
 
@@ -127,7 +125,7 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 <!-- ENDING GIF -->
 <p align="center">
-  <img src="gifs/tired.gif" width="100%" heigth="300px"/>
+  <img src="gifs/tired.gif" width="100%" heigth="200px"/>
 </p>
 
 <br>
