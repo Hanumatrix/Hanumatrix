@@ -15,9 +15,9 @@
 </p>
 
 <ul>
-  <li> Turning ideas into <b>real-world products</b></li>
+  <li> Turning ideas into functional, <b> real-world products</b></li>
   <li> Building <b>full-stack & real-time applications</b></li>
-  <li> Exploring <b>AI-powered experiences</b></li>
+  <li> Exploring AI & <b>AI-powered experiences</b></li>
   <li> Practicing <b>DSA & problem solving</b> with C++</li>
   <li> Learning <b>backend systems, APIs & scalable architecture</b></li>
   <li> Believing the best way to learn is to <b>build, break, and rebuild</b></li>
