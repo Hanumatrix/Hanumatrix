@@ -131,22 +131,6 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 - 📚 Reading mindset & self-growth books  
 - ✍️ Writing thoughts, ideas & stories  
 
-
----
-
-## 📊 GitHub Overview  
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=hanumatrix&theme=tokyonight&hide_border=true" width="48%" /> </p>
-
-
-
----
-
-## 🌱 Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hanumatrix&theme=react-dark&hide_border=true&area=true" />
-</p>
-
 ---
 
 <!-- TIRED GIF -->
