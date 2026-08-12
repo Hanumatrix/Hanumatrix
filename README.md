@@ -5,7 +5,7 @@
 
 <!-- TYPING HEADING -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Hanumatrix+%E2%80%94+a+coder+who+turns+ideas+into+things+that+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=100%&lines=Hi%2C+I'm+Hanumatrix+%E2%80%94+a+coder+who+turns+ideas+into+things+that+work." alt="Typing SVG" />
 </h1>
 
 <p align="center">
