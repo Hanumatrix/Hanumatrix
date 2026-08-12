@@ -53,7 +53,7 @@
 
 <!-- Project gif -->
 <p align="center">
-  <img src="gifs/tech.gif" width="420" />
+  <img src="gifs/tech.gif" width="100%" />
 </p>
 
 ## 🚀 Featured Projects  
@@ -103,7 +103,7 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 <!-- MUSIC GIF -->
 <p align="center">
-  <img src="gifs/music.gif" width="420" />
+  <img src="gifs/music.gif" width="100%" />
 </p>
 
  ## 🎧 Hobbies 
@@ -118,24 +118,39 @@ A full platform for interviews with real-time video, live coding, scheduling, re
 
 ---
 
-<!-- TIRED GIF -->
+<!-- FOOTER -->
+<h2 align="center">😮‍💨 That's all... I'm tired now.</h2>
+
 <p align="center">
-  <img src="gifs/tired.gif" width="420" "/>
+  Thanks for making it this far. 🌸
 </p>
 
-## 😮‍💨 That's all… I'm tired now  
-Thanks for stopping by — feel free to connect anytime!  
-
-<!-- BADGES -->
+<!-- ENDING GIF -->
 <p align="center">
-  <a href="https://www.instagram.com/tushar_rana_20_?igsh=MTY2MDMzZTZsZzAzOA==" target="_blank">
+  <img src="gifs/tired.gif" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <b>Let's stay connected ↓</b>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/tushar_rana_20_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
+
   <a href="https://YOUR_PORTFOLIO_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-<p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
+<br>
+
+<p align="center">
+  <i>And that's where I disappear back into the terminal.</i> 🌙
+  <br><br>
+  <sub>Until the next commit.</sub> 👋
+</p>
 
