@@ -35,13 +35,29 @@
 </p>
 
 
-<p align="left">
-  <!-- main tech icons row -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,sqlite" height="40"/>
-</p>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel"/>
+
+</div>
 
 ---
 
